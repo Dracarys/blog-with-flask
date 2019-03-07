@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"get_db\tfunction"
+			],
+			[
+				"method",
+				"methods"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"au",
+				"author_id"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"login",
+				"login_required\tfunction"
+			],
+			[
 				"wra",
 				"wrapped_view\tfunction"
 			],
@@ -56,10 +80,6 @@
 				"close_db"
 			],
 			[
-				"get",
-				"get_db\tfunction"
-			],
-			[
 				"I",
 				"id"
 			],
@@ -86,10 +106,6 @@
 			[
 				"log",
 				"log_the_user_in"
-			],
-			[
-				"for",
-				"form"
 			],
 			[
 				"ba",
@@ -498,32 +514,34 @@
 			[
 				"pr",
 				"Println\tn int, err error ƒ"
-			],
-			[
-				"db",
-				"dbFile\t Ɩ"
-			],
-			[
-				"Blockchain",
-				"BlockchainIterator\tstruct ʈ"
-			],
-			[
-				"e",
-				"err\terror ν"
-			],
-			[
-				"pw",
-				"pow\t*ProofOfWork ν"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "flaskr/blog.py",
+			"settings":
+			{
+				"buffer_size": 2173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "flaskr/__init__.py",
+			"settings":
+			{
+				"buffer_size": 871,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "flaskr/auth.py",
 			"settings":
 			{
-				"buffer_size": 1927,
+				"buffer_size": 1924,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -540,6 +558,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -592,10 +614,18 @@
 	"expanded_folders":
 	[
 		"/Users/william/Documents/Github/blog-with-flask",
-		"/Users/william/Documents/Github/blog-with-flask/flaskr"
+		"/Users/william/Documents/Github/blog-with-flask/flaskr",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/templates",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/templates/blog"
 	],
 	"file_history":
 	[
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/__init__.py",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/templates/blog/index.html",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/templates/blog/create.html",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/templates/blog/update.html",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/auth.py",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr/static/style.css",
 		"/Users/william/Documents/Github/blog-with-flask/blog-with-flask.sublime-project",
 		"/Users/william/Documents/Python/blog-with-flask/flaskr/db.py",
 		"/Users/william/Documents/Python/blog-with-flask/flaskr/schema.sql",
@@ -717,13 +747,7 @@
 		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/httpie-request.adoc",
 		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/request-body.adoc",
 		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/response-body.adoc",
-		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/response-fields.adoc",
-		"/Users/william/Downloads/gs-testing-restdocs-master/complete/src/test/java/hello/WebLayerTest.java",
-		"/Users/william/Downloads/gs-uploading-files-master/complete/src/main/java/hello/storage/StorageProperties.java",
-		"/Users/william/Downloads/gs-uploading-files-master/complete/src/main/java/hello/FileUploadController.java",
-		"/Users/william/Downloads/gs-uploading-files-master/complete/pom.xml",
-		"/Users/william/Desktop/pet.txt",
-		"/Users/william/Desktop/main.js"
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/response-fields.adoc"
 	],
 	"find":
 	{
@@ -731,7 +755,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
 		]
@@ -741,6 +765,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"user"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -758,24 +783,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "flaskr/auth.py",
+					"file": "flaskr/blog.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1927,
+						"buffer_size": 2173,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1238,
-								1238
+								242,
+								242
 							]
 						],
 						"settings":
@@ -795,10 +820,69 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 554.0,
+						"translation.y": 33.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "flaskr/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "flaskr/auth.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1476,
+								1476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -878,12 +962,12 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -892,7 +976,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 200.0,
 	"status_bar_visible": true,
 	"template_settings":
