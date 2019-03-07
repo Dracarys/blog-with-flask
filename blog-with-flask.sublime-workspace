@@ -4,12 +4,84 @@
 		"selected_items":
 		[
 			[
+				"wra",
+				"wrapped_view\tfunction"
+			],
+			[
+				"red",
+				"render_template"
+			],
+			[
+				"IN",
+				"Incorrect"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
 				"re",
-				"response\tstatement"
+				"register_blueprint\tfunction"
+			],
+			[
+				"url",
+				"url_prefix\tparam"
+			],
+			[
+				"flask",
+				"flaskr\tmodule"
+			],
+			[
+				"gen",
+				"generate_password_hash\tfunction"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"ini",
+				"init_app\tfunction"
+			],
+			[
+				"init",
+				"init_db_command\tfunction"
+			],
+			[
+				"close",
+				"close_db"
+			],
+			[
+				"get",
+				"get_db\tfunction"
+			],
+			[
+				"I",
+				"id"
+			],
+			[
+				"n",
+				"NULL"
 			],
 			[
 				"ro",
-				"route"
+				"Row\tclass"
+			],
+			[
+				"PARSE_",
+				"PARSE_DECLTYPES\tinstance"
+			],
+			[
+				"make",
+				"makedirs\tfunction"
+			],
+			[
+				"inst",
+				"instance_relative_config\tparam"
 			],
 			[
 				"log",
@@ -106,10 +178,6 @@
 			[
 				"class",
 				"classOfStringArrayList"
-			],
-			[
-				"get",
-				"getClass"
 			],
 			[
 				"Ar",
@@ -242,10 +310,6 @@
 			[
 				"baln",
 				"balanceOf"
-			],
-			[
-				"init",
-				"initialSupply"
 			],
 			[
 				"blan",
@@ -450,80 +514,26 @@
 			[
 				"pw",
 				"pow\t*ProofOfWork ν"
-			],
-			[
-				"set",
-				"SetBytes\t*big.Int ƒ"
-			],
-			[
-				"hash",
-				"hashInt\tbig.Int ν"
-			],
-			[
-				"sum",
-				"Sum256\t[32]byte ƒ"
-			],
-			[
-				"maxIn",
-				"MaxInt64\t Ɩ"
-			],
-			[
-				"bloc",
-				"blocks"
-			],
-			[
-				"prevb",
-				"PrevBlockHash"
-			],
-			[
-				"h",
-				"hash"
-			],
-			[
-				"Tim",
-				"Timestamp"
-			],
-			[
-				"ligh",
-				"lightDir"
-			],
-			[
-				"nr",
-				"norm"
-			],
-			[
-				"Frag",
-				"FragPos"
-			],
-			[
-				"verte",
-				"vertexColorLocation"
-			],
-			[
-				"sha",
-				"shaderProgram"
-			],
-			[
-				"fragment",
-				"fragmentShader"
-			],
-			[
-				"try",
-				"try\tTry/Except"
-			],
-			[
-				"name",
-				"nameStr\tstatement"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "blog-with-flask.sublime-project",
+			"file": "flaskr/auth.py",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 1927,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "flaskr/__init__.py",
+			"settings":
+			{
+				"buffer_size": 785,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -590,10 +600,39 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/william/Documents/Python/blog_with_flask"
+		"/Users/william/Documents/Python/blog-with-flask",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates/auth"
 	],
 	"file_history":
 	[
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/db.py",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/schema.sql",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/__init__.py",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates/auth/login.html",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates/auth/register.html",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates/base.html",
+		"/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/sqlite3/__init__.py",
+		"/Users/william/Documents/Python/blog-with-flask/venv/lib/python3.7/site-packages/flask/__init__.py",
+		"/Users/william/Documents/Python/blog-with-flask/flaskr/blog.py",
+		"/Users/william/Documents/Python/blog-with-flask/app/__init__.py",
+		"/Users/william/Desktop/question about iOS",
+		"/Users/william/Documents/Python/blog-with-flask/.gitignore",
+		"/Users/william/Documents/Python/blog-with-flask/MANIFEST.in",
+		"/Users/william/Documents/Python/blog-with-flask/steup.py",
+		"/Users/william/Documents/Python/blog-with-flask/app/static/style.css",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/blog/update.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/blog/index.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/blog/create.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/auth/register.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/auth/login.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/templates/base.html",
+		"/Users/william/Documents/Python/blog-with-flask/app/blog.py",
+		"/Users/william/Documents/Python/blog-with-flask/app/auth.py",
+		"/Users/william/Documents/Python/blog-with-flask/app/schema.sql",
+		"/Users/william/Documents/Python/blog-with-flask/app/db.py",
+		"/Users/william/Documents/Python/blog-with-flask/blog-with-flask.sublime-project",
 		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/Users/william/Documents/Python/flask/flask.sublime-project",
 		"/Users/william/Documents/Python/flask/venv/lib/python3.7/site-packages/flask/app.py",
@@ -695,33 +734,7 @@
 		"/Users/william/Downloads/gs-uploading-files-master/complete/pom.xml",
 		"/Users/william/Desktop/pet.txt",
 		"/Users/william/Desktop/main.js",
-		"/Users/william/Desktop/HelloServlet.html",
-		"/Users/william/Desktop/HelloServlet.java",
-		"/Users/william/Library/Tomcat/bin/catalina.sh",
-		"/Users/william/Library/Tomcat/bin/startup.sh",
-		"/Users/william/Downloads/Pot直播.dpl",
-		"/Users/william/Desktop/test.c",
-		"/Users/william/Desktop/BookStoreResponse.json",
-		"/Users/william/Documents/Projects/Company/tianya-iphone/TianyaQingV3/Images.xcassets/Literature/literature_reader/literature_reader_cover_vip.imageset/Contents.json",
-		"/Users/william/Desktop/I8DWjp25c04d",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/controllableModule.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category2.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/首页推荐缓存目录.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/groupClass.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category3.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category.json",
-		"/Users/william/Desktop/cn.tianya.tianyaQing 2018-05-18 15:17.11.155.xcappdata/AppData/Library/Preferences/cn.tianya.tianyaQing.plist",
-		"/Users/william/Desktop/cn.tianya.tianyaQing 2018-05-18 15:17.11.155.xcappdata/AppData/Documents/首页推荐缓存目录.json",
-		"/Users/william/Documents/ProductDoc/文学6.8.3/设计/书城首页切入动效/data.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/BB56AE0A-A546-47EE-8C20-5933B34F9D32/Documents/LiteratureGiftsCache.json",
-		"/Users/william/Desktop/data.json",
-		"/Users/william/Downloads/Demo3_5.14下午_不定/data.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/9E9ABFD8-9AE8-4E4D-A54A-D0CB667234C9/data/Containers/Data/Application/7E238360-14D4-47BA-A14A-0F76A05F8111/Documents/LiteratureGiftsCache.json",
-		"/Users/william/Library/Developer/CoreSimulator/Devices/9E9ABFD8-9AE8-4E4D-A54A-D0CB667234C9/data/Containers/Data/Application/7E238360-14D4-47BA-A14A-0F76A05F8111/Documents/BBSGiftsCache.json",
-		"/Users/william/Movies/software/Jetbrains/license.txt",
-		"/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions",
-		"/Users/william/Desktop/GitTest/Hello.txt",
-		"/Users/william/Downloads/testrpc-master/client.go"
+		"/Users/william/Desktop/HelloServlet.html"
 	],
 	"find":
 	{
@@ -761,11 +774,50 @@
 			[
 				{
 					"buffer": 0,
-					"file": "blog-with-flask.sublime-project",
+					"file": "flaskr/auth.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								1238
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 554.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "flaskr/__init__.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 785,
 						"regions":
 						{
 						},
@@ -778,13 +830,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -796,7 +850,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
