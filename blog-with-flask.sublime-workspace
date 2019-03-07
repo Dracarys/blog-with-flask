@@ -527,15 +527,6 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "flaskr/__init__.py",
-			"settings":
-			{
-				"buffer_size": 785,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -600,13 +591,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/william/Documents/Python/blog-with-flask",
-		"/Users/william/Documents/Python/blog-with-flask/flaskr",
-		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates",
-		"/Users/william/Documents/Python/blog-with-flask/flaskr/templates/auth"
+		"/Users/william/Documents/Github/blog-with-flask",
+		"/Users/william/Documents/Github/blog-with-flask/flaskr"
 	],
 	"file_history":
 	[
+		"/Users/william/Documents/Github/blog-with-flask/blog-with-flask.sublime-project",
 		"/Users/william/Documents/Python/blog-with-flask/flaskr/db.py",
 		"/Users/william/Documents/Python/blog-with-flask/flaskr/schema.sql",
 		"/Users/william/Documents/Python/blog-with-flask/flaskr/__init__.py",
@@ -733,8 +723,7 @@
 		"/Users/william/Downloads/gs-uploading-files-master/complete/src/main/java/hello/FileUploadController.java",
 		"/Users/william/Downloads/gs-uploading-files-master/complete/pom.xml",
 		"/Users/william/Desktop/pet.txt",
-		"/Users/william/Desktop/main.js",
-		"/Users/william/Desktop/HelloServlet.html"
+		"/Users/william/Desktop/main.js"
 	],
 	"find":
 	{
@@ -802,43 +791,14 @@
 									"selector": "source.python - string - constant.numeric"
 								}
 							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 554.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "flaskr/__init__.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 785,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]

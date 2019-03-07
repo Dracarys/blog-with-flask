@@ -16,7 +16,7 @@
 	],
 	"settings":
 	{
-		"python_interpreter": "~/Documents/Python/blog-with-flask/venv/bin/python3",
+		"python_interpreter": "./venv/bin/python3",
 		"validate_imports": true
 	}
 }
