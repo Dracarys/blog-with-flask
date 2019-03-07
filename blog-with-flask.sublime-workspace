@@ -1,0 +1,887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"response\tstatement"
+			],
+			[
+				"ro",
+				"route"
+			],
+			[
+				"log",
+				"log_the_user_in"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ba",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"func",
+				"functools\tmodule"
+			],
+			[
+				"m",
+				"MapCompose"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"add",
+				"add_value"
+			],
+			[
+				"pro",
+				"PropertiesItem\tclass"
+			],
+			[
+				"fi",
+				"Field"
+			],
+			[
+				"com",
+				"comment_list\tstatement"
+			],
+			[
+				"Comment",
+				"CommentForm\tclass"
+			],
+			[
+				"Com",
+				"CommentForm\tclass"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"Post",
+				"PostAdmin\tclass"
+			],
+			[
+				"jqu",
+				"jquery-2"
+			],
+			[
+				"Base",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"p",
+				"pArr"
+			],
+			[
+				"blo",
+				"Block_release"
+			],
+			[
+				"dst",
+				"dstLength"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"ui",
+				"uint16_t"
+			],
+			[
+				"g",
+				"genericInteger"
+			],
+			[
+				"cla",
+				"classOfIntegerArrayList"
+			],
+			[
+				"class",
+				"classOfStringArrayList"
+			],
+			[
+				"get",
+				"getClass"
+			],
+			[
+				"Ar",
+				"ArrayList"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"br",
+				"breath"
+			],
+			[
+				"hu",
+				"Human"
+			],
+			[
+				"std",
+				"stdio"
+			],
+			[
+				"mod",
+				"Modifiers"
+			],
+			[
+				"syb",
+				"symbol2"
+			],
+			[
+				"winning",
+				"winningProposal"
+			],
+			[
+				"pos",
+				"proposals"
+			],
+			[
+				"winn",
+				"winnerName"
+			],
+			[
+				"bytes",
+				"bytes32"
+			],
+			[
+				"win",
+				"winningProposal"
+			],
+			[
+				"vote",
+				"voteCount"
+			],
+			[
+				"dele",
+				"delelgate"
+			],
+			[
+				"voter",
+				"Voter"
+			],
+			[
+				"wi",
+				"weight"
+			],
+			[
+				"cha",
+				"chairperson"
+			],
+			[
+				"vot",
+				"voteCount"
+			],
+			[
+				"prop",
+				"proposalNames"
+			],
+			[
+				"toa",
+				"totalSupply"
+			],
+			[
+				"send",
+				"sender"
+			],
+			[
+				"total",
+				"totalSupply"
+			],
+			[
+				"tota",
+				"totalSupply"
+			],
+			[
+				"retur",
+				"returns"
+			],
+			[
+				"by",
+				"bytes"
+			],
+			[
+				"_r",
+				"_transfer"
+			],
+			[
+				"sen",
+				"sender"
+			],
+			[
+				"uin",
+				"uint256"
+			],
+			[
+				"inter",
+				"Internal"
+			],
+			[
+				"se",
+				"Set"
+			],
+			[
+				"banl",
+				"balanceOf"
+			],
+			[
+				"balan",
+				"balanceOf"
+			],
+			[
+				"baln",
+				"balanceOf"
+			],
+			[
+				"init",
+				"initialSupply"
+			],
+			[
+				"blan",
+				"balanceOf"
+			],
+			[
+				"tx",
+				"tx\tTransaction ν"
+			],
+			[
+				"input",
+				"inputs\t[]TXInput ν"
+			],
+			[
+				"addre",
+				"addresses\t[]string ν"
+			],
+			[
+				"Spr",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"new",
+				"NewEncoder\t*gob.Encoder ƒ"
+			],
+			[
+				"P",
+				"P256\telliptic.Curve ƒ"
+			],
+			[
+				"wal",
+				"wallets\tWallet ν"
+			],
+			[
+				"wa",
+				"wallets\tstruct ʈ"
+			],
+			[
+				"WA",
+				"wallets\tstruct ʈ"
+			],
+			[
+				"targ",
+				"targetChecksum\t ν"
+			],
+			[
+				"base",
+				"Base58Decode\t[]byte ƒ"
+			],
+			[
+				"pub",
+				"publicSHA256\t[32]byte ν"
+			],
+			[
+				"versi",
+				"versionedPayload\t[]byte ν"
+			],
+			[
+				"ver",
+				"versionedPayload\t[]byte ν"
+			],
+			[
+				"txo",
+				"txo\t*TXOutput ν"
+			],
+			[
+				"v",
+				"Vin\t[]TXInput ν"
+			],
+			[
+				"Sp",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"pre",
+				"privKey\tecdsa.PrivateKey ν"
+			],
+			[
+				"V",
+				"Vout\t[]TXOutput ν"
+			],
+			[
+				"prev",
+				"prevTXs\tmap[string]Transaction ν"
+			],
+			[
+				"ty",
+				"txCopy\tTransaction ν"
+			],
+			[
+				"en",
+				"encode\tbytes.Buffer ν"
+			],
+			[
+				"ne",
+				"NewEncoder\t*gob.Encoder ƒ"
+			],
+			[
+				"fun",
+				"func (*Transaction)\tfunc (...) {...} ʂ"
+			],
+			[
+				"bl",
+				"block\t*Block ν"
+			],
+			[
+				"Block",
+				"Block\tstruct ʈ"
+			],
+			[
+				"i",
+				"ID\t[]byte ν"
+			],
+			[
+				"enco",
+				"EncodeToString\tstring ƒ"
+			],
+			[
+				"Hash",
+				"HashTransactions\t[]byte ƒ"
+			],
+			[
+				"txou",
+				"TXOutput\tstruct ʈ"
+			],
+			[
+				"sprin",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"block",
+				"Blockchain\tstruct ʈ"
+			],
+			[
+				"prin",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"fin",
+				"FindUnspentTransactions\t[]Transaction ƒ"
+			],
+			[
+				"endo",
+				"EncodeToString\tstring ƒ"
+			],
+			[
+				"out",
+				"outIdx\t ν"
+			],
+			[
+				"Bloc",
+				"Blockchain\tstruct ʈ"
+			],
+			[
+				"New",
+				"newBlock\t*Block ν"
+			],
+			[
+				"tra",
+				"Transactions\t[]*Transaction ν"
+			],
+			[
+				"Bl",
+				"Blockchain\tstruct ʈ"
+			],
+			[
+				"txha",
+				"txHashes\t[][]byte ν"
+			],
+			[
+				"txHas",
+				"txHash\t[32]byte ν"
+			],
+			[
+				"txHash",
+				"txHashes\t[][]byte ν"
+			],
+			[
+				"TX",
+				"TXOutput\tstruct ʈ"
+			],
+			[
+				"pa",
+				"Parsed\tbool ƒ"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"db",
+				"dbFile\t Ɩ"
+			],
+			[
+				"Blockchain",
+				"BlockchainIterator\tstruct ʈ"
+			],
+			[
+				"e",
+				"err\terror ν"
+			],
+			[
+				"pw",
+				"pow\t*ProofOfWork ν"
+			],
+			[
+				"set",
+				"SetBytes\t*big.Int ƒ"
+			],
+			[
+				"hash",
+				"hashInt\tbig.Int ν"
+			],
+			[
+				"sum",
+				"Sum256\t[32]byte ƒ"
+			],
+			[
+				"maxIn",
+				"MaxInt64\t Ɩ"
+			],
+			[
+				"bloc",
+				"blocks"
+			],
+			[
+				"prevb",
+				"PrevBlockHash"
+			],
+			[
+				"h",
+				"hash"
+			],
+			[
+				"Tim",
+				"Timestamp"
+			],
+			[
+				"ligh",
+				"lightDir"
+			],
+			[
+				"nr",
+				"norm"
+			],
+			[
+				"Frag",
+				"FragPos"
+			],
+			[
+				"verte",
+				"vertexColorLocation"
+			],
+			[
+				"sha",
+				"shaderProgram"
+			],
+			[
+				"fragment",
+				"fragmentShader"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"name",
+				"nameStr\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog-with-flask.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package controlin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"sublime_cache()",
+			"sublime cache"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/william/Documents/Python/blog_with_flask"
+	],
+	"file_history":
+	[
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/william/Documents/Python/flask/flask.sublime-project",
+		"/Users/william/Documents/Python/flask/venv/lib/python3.7/site-packages/flask/app.py",
+		"/Users/william/Documents/Python/flask/hello.sublime-workspace",
+		"/Users/william/Documents/Python/flask/hello.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/william/Documents/Python/flask/templates/hello.html",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/Anaconda/LICENSE",
+		"/Users/william/Documents/Python/flask/flask.py",
+		"/Users/william/Documents/Projects/Company/tianya-iphone/Podfile.lock",
+		"/Users/william/Documents/Projects/Company/tianya-iphone/Podfile",
+		"/Users/william/.cocoapods/repos/macdownapp/hoedown/3.0.7/hoedown.podspec.json",
+		"/Users/william/Desktop/Topics of the mac OS X tutorials.txt",
+		"/Users/william/.bash_profile",
+		"/Users/william/Documents/Python/2048.py",
+		"/Users/william/Documents/Python/Hello.py",
+		"/Users/william/Documents/Python/crawler.py",
+		"/Users/william/Documents/GitHub/LeetCode/.gitignore",
+		"/Users/william/Desktop/Java知识点.txt",
+		"/Users/william/Desktop/RxSwift/OurPlanet/Podfile",
+		"/Users/william/Desktop/RxSwift/starter/Podfile",
+		"/Users/william/Desktop/Java.txt",
+		"/Users/william/Documents/C/zennyChar.c",
+		"/Users/william/Desktop/C/zennyChar.c",
+		"/Users/william/Documents/Books/Python/Beginning Python From Novice to Professional ebook.epub",
+		"/Users/william/Documents/Python/blogproject/blogproject/settings.py",
+		"/Users/william/Documents/Python/blogproject/requirements.txt",
+		"/Users/william/Documents/Python/properties/properties/items.py",
+		"/Users/william/Documents/Python/properties/properties/spiders/basic.py",
+		"/Users/william/Documents/Python/properties/items.json",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/william/Downloads/libstdc--master/install.sh",
+		"/Users/william/Desktop/Computer Science and Engineering (Course 6-3)",
+		"/Users/william/Desktop/HashTableFinish.swift",
+		"/Users/william/Desktop/FoundationLearning/CFArray.c",
+		"/Users/william/Documents/ThirdLibs/CF/CFPriv.h",
+		"/Users/william/Documents/ThirdLibs/CF/CFArray.c",
+		"/Users/william/Downloads/CF-1151.16/CFArray.h",
+		"/Users/william/Desktop/starter/RxSwiftPlayground/RxSwiftPlayground.playground/Contents.swift",
+		"/Users/william/Desktop/starter/RxSwiftPlayground/RxSwiftPlayground.playground/contents.xcplayground",
+		"/Users/william/Desktop/starter/RxSwiftPlayground/Podfile",
+		"/Users/william/Documents/Python/blogproject/templates/blog/index.html",
+		"/Users/william/Documents/Python/blogproject/templates/blog/detail.html",
+		"/Users/william/Documents/Python/blogproject/templates/base.html",
+		"/Users/william/Documents/Python/blogproject/blog/models.py",
+		"/Users/william/Documents/Python/blogproject/blog/views.py",
+		"/Users/william/Documents/Python/blogproject/blogproject/urls.py",
+		"/Users/william/Documents/Python/blogproject/comments/urls.py",
+		"/Users/william/Documents/Python/blogproject/comments/views.py",
+		"/Users/william/Documents/Python/blogproject/comments/forms.py",
+		"/Users/william/Documents/Python/blogproject/comments/models.py",
+		"/Users/william/Documents/Python/blogproject/blog/urls.py",
+		"/Users/william/Documents/Python/blogproject/blog/templatetags/blog_tags.py",
+		"/Users/william/Documents/Python/blogproject/blog/templatetags/__init__.py",
+		"/Users/william/Documents/Python/blogproject/blog/admin.py",
+		"/Users/william/Documents/Python/Blog/Blog/settings.py",
+		"/Users/william/Documents/Python/blogproject/manage.py",
+		"/Users/william/Desktop/C/block2.c",
+		"/Users/william/Desktop/C/array.c",
+		"/Users/william/Desktop/C/block.c",
+		"/Users/william/Desktop/C/zennyChar.h",
+		"/Users/william/Desktop/C/char.c",
+		"/Users/william/Desktop/C/char.h",
+		"/Users/william/Desktop/Objective-C.c",
+		"/Users/william/Desktop/p2pspider.go",
+		"/Users/william/Desktop/untitled.json",
+		"/Users/william/Documents/Java/ThirdProjects/VBlog/blogserver/src/main/resources/vueblog.sql",
+		"/Users/william/Documents/ThirdLibs/C-in-OO-Style/ZCObject.c",
+		"/Users/william/Documents/ThirdLibs/C-in-OO-Style/ZCObject.h",
+		"/Users/william/Documents/ThirdLibs/C-in-OO-Style/main.c",
+		"/Users/william/intellij-soapui-workspace.xml",
+		"/Users/william/Desktop/package/Generic.java",
+		"/Users/william/Desktop/package/Application.java",
+		"/Users/william/Desktop/Hello.java",
+		"/Users/william/Desktop/yaml.yml",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/william/Desktop/Topics of the mac OS X tutorials",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/william/Desktop/磁力链接搜索引擎",
+		"/Users/william/Desktop/Main.java",
+		"/Users/william/Downloads/gs-validating-form-input-master/complete/src/main/resources/templates/results.html",
+		"/Users/william/Downloads/gs-validating-form-input-master/complete/src/main/resources/templates/form.html",
+		"/Users/william/Downloads/gs-producing-web-service-master/complete/request.xml",
+		"/Users/william/Downloads/gs-producing-web-service-master/complete/src/main/java/hello/CountryRepository.java",
+		"/Users/william/Downloads/gs-producing-web-service-master/complete/pom.xml",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/curl-request.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/http-request.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/http-response.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/httpie-request.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/request-body.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/response-body.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/initial/target/snippets/home/response-fields.adoc",
+		"/Users/william/Downloads/gs-testing-restdocs-master/complete/src/test/java/hello/WebLayerTest.java",
+		"/Users/william/Downloads/gs-uploading-files-master/complete/src/main/java/hello/storage/StorageProperties.java",
+		"/Users/william/Downloads/gs-uploading-files-master/complete/src/main/java/hello/FileUploadController.java",
+		"/Users/william/Downloads/gs-uploading-files-master/complete/pom.xml",
+		"/Users/william/Desktop/pet.txt",
+		"/Users/william/Desktop/main.js",
+		"/Users/william/Desktop/HelloServlet.html",
+		"/Users/william/Desktop/HelloServlet.java",
+		"/Users/william/Library/Tomcat/bin/catalina.sh",
+		"/Users/william/Library/Tomcat/bin/startup.sh",
+		"/Users/william/Downloads/Pot直播.dpl",
+		"/Users/william/Desktop/test.c",
+		"/Users/william/Desktop/BookStoreResponse.json",
+		"/Users/william/Documents/Projects/Company/tianya-iphone/TianyaQingV3/Images.xcassets/Literature/literature_reader/literature_reader_cover_vip.imageset/Contents.json",
+		"/Users/william/Desktop/I8DWjp25c04d",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/controllableModule.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category2.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/首页推荐缓存目录.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/groupClass.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category3.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/2DCA2009-58F3-4DA7-A9B5-199DE28A1D9F/Documents/category.json",
+		"/Users/william/Desktop/cn.tianya.tianyaQing 2018-05-18 15:17.11.155.xcappdata/AppData/Library/Preferences/cn.tianya.tianyaQing.plist",
+		"/Users/william/Desktop/cn.tianya.tianyaQing 2018-05-18 15:17.11.155.xcappdata/AppData/Documents/首页推荐缓存目录.json",
+		"/Users/william/Documents/ProductDoc/文学6.8.3/设计/书城首页切入动效/data.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/38A67F09-8519-4AAD-B494-F9ED76400920/data/Containers/Data/Application/BB56AE0A-A546-47EE-8C20-5933B34F9D32/Documents/LiteratureGiftsCache.json",
+		"/Users/william/Desktop/data.json",
+		"/Users/william/Downloads/Demo3_5.14下午_不定/data.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/9E9ABFD8-9AE8-4E4D-A54A-D0CB667234C9/data/Containers/Data/Application/7E238360-14D4-47BA-A14A-0F76A05F8111/Documents/LiteratureGiftsCache.json",
+		"/Users/william/Library/Developer/CoreSimulator/Devices/9E9ABFD8-9AE8-4E4D-A54A-D0CB667234C9/data/Containers/Data/Application/7E238360-14D4-47BA-A14A-0F76A05F8111/Documents/BBSGiftsCache.json",
+		"/Users/william/Movies/software/Jetbrains/license.txt",
+		"/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions",
+		"/Users/william/Desktop/GitTest/Hello.txt",
+		"/Users/william/Downloads/testrpc-master/client.go"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog-with-flask.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/william/Documents/Go/src/Blockchain":
+	{
+		"height": 114.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog-with-flask.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
