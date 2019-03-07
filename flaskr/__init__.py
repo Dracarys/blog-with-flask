@@ -9,7 +9,7 @@ def create_app(test_config=None):
     # 对其进行配置，这里配置了密钥和数据库地址
     app.config.from_mapping(
         SECRET_KEY='dev',  # 注意发布时无比要将此替换为一个随机值
-        DATABASE=os.path.join(app.instance_path, ''),
+        DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
     )
 
     if test_config is None:
@@ -26,5 +26,8 @@ def create_app(test_config=None):
     @app.route('/hello/')
     def hello():
         return 'Hello, World!'
+
+    from . import db
+    db.init_app(app)
 
     return app
