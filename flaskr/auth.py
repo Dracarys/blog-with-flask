@@ -6,10 +6,36 @@ from flask import (
 from werkzeug.security import check_password_hash, generate_password_hash
 
 from flaskr.db import get_db
-from . import blog
 
 # ????蓝图什么鬼？？？？
 bp = Blueprint('auth', __name__, url_prefix='/auth')
+
+
+def login_required(view):
+    @functools.wraps(view)
+    def wrapped_view(**kwargs):
+        if g.user is None:
+            return redirect(url_for('auth.login'))
+
+        return view(**kwargs)
+
+    return wrapped_view
+
+
+@bp.before_app_request
+def load_logged_in_user():
+    """
+    如果用户的 id 已经存在与 session 当中，那么就把 user 对象从数据库
+    中加载到 g.user 
+    """
+    user_id = session.get('user_id')
+
+    if user_id is None:
+        g.user = None
+    else:
+        g.user = get_db().execute(
+            'SELECT * FROM user WHERE id = ?', (user_id,)
+        ).fetchone()
 
 
 @bp.route('/register', methods=('GET', 'POST'))
@@ -62,7 +88,7 @@ def login():
         if error is None:
             session.clear()
             session['user_id'] = user['id']
-            return redirect(url_for('blog.index'))
+            return redirect(url_for('index'))
 
         flash(error)
 
@@ -73,14 +99,3 @@ def login():
 def logout():
     session.clear()
     return redirect(url_for('index'))
-
-
-def login_required(view):
-    @functools.wraps(view)
-    def wrapped_view(**kwargs):
-        if g.user is None:
-            return redirect(url_for('auth.login'))
-
-        return view(**kwargs)
-
-    return wrapped_view
