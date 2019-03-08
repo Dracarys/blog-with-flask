@@ -47,7 +47,7 @@ def register():
         error = None
 
         if not username:
-            error = 'username is required.'
+            error = 'Username is required.'
         elif not password:
             error = 'Password is required.'
         elif db.execute(
