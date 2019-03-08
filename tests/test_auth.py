@@ -8,7 +8,7 @@ def test_register(client, app):
     response = client.post(
         '/auth/register', data={'username': 'a', 'password': 'a'}
     )
-    assert 'http://localhost/auth/login' == resposne.headers['location']
+    assert 'http://localhost/auth/login' == response.headers['location']
 
     with app.app_context():
         assert get_db().execute(
