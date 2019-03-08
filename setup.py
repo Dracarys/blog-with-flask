@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='flaskr',
-    version='1.0.0'
+    version='1.0.0',
     # 指明 Python 包所包含的文件，这里通过函数自动查找，免除手动的麻烦
     packages=find_packages(),
     # 静态文件、模板文件不会被上面的函数自动包含进去，需要显示设置为 true
@@ -14,4 +14,10 @@ setup(
     install_requires=[
         'flask',
     ],
+    extras_require={
+        'test': [
+            'pytest',
+            'coverage',
+        ],
+    },
 )
