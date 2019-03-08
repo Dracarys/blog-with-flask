@@ -13,13 +13,14 @@ def create_app(test_config=None):
     )
 
     if test_config is None:
-        # 如果创建没有指定配置，那么就从文件中重载缺省配置
+        # 如果创建没有指定测试配置，那么就从文件中重载缺省配置
         app.config.from_pyfile('config.py', silent=True)
     else:
         app.config.from_mapping(test_config)
 
+    # 确保创建该文件夹
     try:
-        os.makedirs(app.instance_path)  # 确保创建该文件夹
+        os.makedirs(app.instance_path)
     except OSError:
         pass
 
@@ -27,12 +28,15 @@ def create_app(test_config=None):
     def hello():
         return 'Hello, World!'
 
+    # 注册数据初始化命令
     from . import db
     db.init_app(app)
 
+    # 注册 blueprint
     from . import auth, blog
     app.register_blueprint(auth.bp)
     app.register_blueprint(blog.bp)
-    app.add_url_rule('/', endpoint='index')
+
+    #app.add_url_rule('/', endpoint='index')
 
     return app
